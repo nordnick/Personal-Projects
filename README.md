@@ -1,5 +1,5 @@
 # Personal-Projects
-This repository contains project that I have done for educational purposes in my university as well as side-projects for polishing and developing my skills. 
+This repository contains projects that I have done for educational purposes in my university as well as side-projects for polishing and developing my skills. They represent the best skills I have got at the moment. 
 
 ### Index
 1. [Research of position of private museums in Russia (Web Scraping, Data Visualisation)](https://github.com/nordnick/Personal-Projects/tree/master/Research%20of%20position%20of%20private%20museums%20in%20Russia)
