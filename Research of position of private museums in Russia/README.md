@@ -46,7 +46,7 @@ Private museums have one of the lowest median number of employees on the market,
 Top three classes for private museums are "Art", "Historical" and "Science and Technology", in all other classes there are few private museums. It is also noticable that more than 60% of private museum are classified as art-museums and this is the highest proportion of this class among all other groups of museums. This may be a sign that private museums are a very favorable environment for artists and probably a place of artistic development of Russian culture. This may be used by private museums to their advantage if marketed correctly.
 
 <p float = "left" align="center">
-    <img src = "https://github.com/nordnick/Personal-Projects/blob/master/Research%20of%20position%20of%20private%20museums%20in%20Russia/plots/median-units-of-storage-per-square-meter-of-storage-area.png?raw=true" width = 800>
+    <img src = "https://github.com/nordnick/Personal-Projects/blob/master/Research%20of%20position%20of%20private%20museums%20in%20Russia/plots/median-units-of-storage-per-square-meter-of-storage-area.png?raw=true" width = 500>
 <p>
     
 Storage area management in private museums must be further researched to achieve an unambiguous conclusion. Median units per square meter of storage area in private museums is very low when compared to other museum groups. This may indicate one of two things:
