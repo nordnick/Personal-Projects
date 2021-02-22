@@ -58,3 +58,9 @@ After further research into the topic it seems like the second reason affects th
 
 ## Conclusion
 Private museums are in a relatively unfortunate market circumstances.Their range of classes is limited to only "art", "history" and "science and technology". The demand for their services appears to be low, however, they have a potential to be important centres for artistic development and are more flexible an dready to appeal their visitors. Private museums employees have bigger area of responsibility than an average museum worker which demands professionalism and skills higher than average on the market.
+### Contact me
+|Contact Method    |                     |
+|------------------|---------------------|
+|Professional Email|nabaranovhq@gmail.com|
+|Telegram          |@nordnick            |
+|VK                |@nordnick            |
