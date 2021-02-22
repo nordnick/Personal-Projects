@@ -40,5 +40,21 @@ As for area management, private museums tend to choose a more flexible strategy,
 Private museums have one of the lowest median number of employees on the market, and, as a consequence they have to manage a bigger area than they counterparts. It is not a strictly negative feature of private museums. A lesser number of employees may result in their better productivity and creativity, as well as their ability to better attract customers by inventing and executing topical projects.
 
 <p float = "left" align="center">
-    <img src = "https://github.com/nordnick/Personal-Projects/blob/master/Research%20of%20position%20of%20private%20museums%20in%20Russia/plots/museum-classes-proportion-by-budget-status.png?raw=true" width = 700>
+    <img src = "https://github.com/nordnick/Personal-Projects/blob/master/Research%20of%20position%20of%20private%20museums%20in%20Russia/plots/museum-classes-proportion-by-budget-status.png?raw=true" width = 800>
 <p>
+
+Top three classes for private museums are "Art", "Historical" and "Science and Technology", in all other classes there are few private museums. It is also noticable that more than 60% of private museum are classified as art-museums and this is the highest proportion of this class among all other groups of museums. This may be a sign that private museums are a very favorable environment for artists and probably a place of artistic development of Russian culture. This may be used by private museums to their advantage if marketed correctly.
+
+<p float = "left" align="center">
+    <img src = "https://github.com/nordnick/Personal-Projects/blob/master/Research%20of%20position%20of%20private%20museums%20in%20Russia/plots/median-units-of-storage-per-square-meter-of-storage-area.png?raw=true" width = 800>
+<p>
+    
+Storage area management in private museums must be further researched to achieve an unambiguous conclusion. Median units per square meter of storage area in private museums is very low when compared to other museum groups. This may indicate one of two things:
+
+1. Private museums ineffitiently use their storage area by upholding better storage standards
+2. Other museums have smaller objects to store and, therefore units/sq meter of storage area are higher for other groups
+
+After further research into the topic it seems like the second reason affects the statistic heavily due to other museums holding large collections of ceramics, coins and particles of instruments which all are very small in size. However, I couldn't rule out the first possible reason due to lack of publicly available information on this topic.
+
+## Conclusion
+Private museums are in a relatively unfortunate market circumstances.Their range of classes is limited to only "art", "history" and "science and technology". The demand for their services appears to be low, however, they have a potential to be important centres for artistic development and are more flexible an dready to appeal their visitors. Private museums employees have bigger area of responsibility than an average museum worker which demands professionalism and skills higher than average on the market.
